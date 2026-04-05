@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Joe 👋
 
-<!--
-**jooecarter/jooecarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building software that solves real problems.
 
-Here are some ideas to get you started:
+**Software Lead** at [Inverti](https://inverti.co.uk) · **Technical Director** at Momentm · 📍 Liverpool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently working with
+
+`ASP.NET MVC` `C#` `.NET MAUI` `React Native` `Expo` `JavaScript` `TypeScript` `SQL`
+
+---
+
+📫 j.carter@inverti.co.uk
