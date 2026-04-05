@@ -2,8 +2,6 @@
 
 Building software that solves real problems.
 
-**Software Lead** at [Inverti](https://inverti.co.uk) · **Technical Director** at Momentm · 📍 Liverpool
-
 ---
 
 ### Currently working with
