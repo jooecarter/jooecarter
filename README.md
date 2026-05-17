@@ -6,7 +6,7 @@ Building software that solves real problems.
 
 ### Currently working with
 
-`ASP.NET MVC` `C#` `.NET MAUI` `React Native` `Expo` `JavaScript` `TypeScript` `SQL`
+`ASP.NET MVC` `C#` `.NET MAUI` `React Native` `Expo` `JavaScript` `TypeScript` `SQL` 'React'
 
 ---
 
